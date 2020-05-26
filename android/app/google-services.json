@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497900398837",
+    "firebase_url": "https://edupoint-7275a.firebaseio.com",
+    "project_id": "edupoint-7275a",
+    "storage_bucket": "edupoint-7275a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497900398837:android:026fe1f2f8a207142a7dbc",
+        "android_client_info": {
+          "package_name": "hafizz.edupoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497900398837-82cd9k5j8m0lb88m3pub6bnl7li04dji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwEYGLLN04hliMdujr6QwEx4lq5a2zz0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497900398837-82cd9k5j8m0lb88m3pub6bnl7li04dji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
